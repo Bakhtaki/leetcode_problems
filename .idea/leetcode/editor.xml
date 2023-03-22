@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[13]Roman to Integer.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/doc/content/[13]Roman to Integer.md" />
+              <option name="frontendQuestionId" value="leetcode.com13" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[13]Roman to Integer.py" />
+              <option name="titleSlug" value="roman-to-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[1569]Number of Ways to Reorder Array to Get Same BST.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/doc/content/[1569]Number of Ways to Reorder Array to Get Same BST.md" />
+              <option name="frontendQuestionId" value="leetcode.com1569" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[1569]Number of Ways to Reorder Array to Get Same BST.py" />
+              <option name="titleSlug" value="number-of-ways-to-reorder-array-to-get-same-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[1]Two Sum.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/doc/content/[1]Two Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[1]Two Sum.py" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[26]Remove Duplicates from Sorted Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/doc/content/[26]Remove Duplicates from Sorted Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com26" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[26]Remove Duplicates from Sorted Array.py" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[2]Add Two Numbers.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/doc/content/[2]Add Two Numbers.md" />
+              <option name="frontendQuestionId" value="leetcode.com2" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[2]Add Two Numbers.cpp" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[2]Add Two Numbers.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/doc/content/[2]Add Two Numbers.md" />
+              <option name="frontendQuestionId" value="leetcode.com2" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[2]Add Two Numbers.cpp" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[4]Median of Two Sorted Arrays.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/doc/content/[4]Median of Two Sorted Arrays.md" />
+              <option name="frontendQuestionId" value="leetcode.com4" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/kc/k9p257md2kn6_z_747_ppptw0000gn/T/leetcode/editor/en/[4]Median of Two Sorted Arrays.py" />
+              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
